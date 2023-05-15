@@ -1,0 +1,7 @@
+vosk
+pyaudio
+pytesseract
+opencv-python
+pyautogui
+numpy
+pillow
